@@ -356,6 +356,7 @@ DEPENDENCIES
   madmin
   name_of_person (~> 1.1)
   noticed (~> 1.2)
+  oauth2
   omniauth-facebook (~> 8.0)
   omniauth-github (~> 2.0)
   omniauth-twitter (~> 1.4)

@@ -23,6 +23,8 @@ gem 'redis', '~> 4.0'
 
 gem 'doorkeeper'
 
+gem 'oauth2'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
